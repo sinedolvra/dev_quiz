@@ -1,6 +1,10 @@
 # dev_quiz
 
-A new Flutter project.
+This project is under construction and is part of the "[NLW#5] Trilha Flutter". The goal of this project is to build an app that provides questions about flutter.(https://nextlevelweek.com/episodios/flutter)
+
+## Result
+
+![image](result_app.png)
 
 ## Getting Started
 
