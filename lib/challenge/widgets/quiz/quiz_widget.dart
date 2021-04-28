@@ -20,22 +20,22 @@ class QuizWidget extends StatelessWidget {
           ),
           AnswerWidget(
             title: "Possibilidade a criação de aplicativos compilados nativos",
+            isRight: true,
+            isSelected: true,
+          ),
+          AnswerWidget(
+            title: "Possibilidade a criação de aplicativos compilados nativos",
             isRight: false,
             isSelected: false,
           ),
           AnswerWidget(
             title: "Possibilidade a criação de aplicativos compilados nativos",
-            isRight: true,
-            isSelected: true,
+            isRight: false,
+            isSelected: false,
           ),
           AnswerWidget(
             title: "Possibilidade a criação de aplicativos compilados nativos",
             isRight: false,
-            isSelected: true,
-          ),
-          AnswerWidget(
-            title: "Possibilidade a criação de aplicativos compilados nativos",
-            isRight: true,
             isSelected: false,
           ),
         ],

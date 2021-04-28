@@ -51,12 +51,12 @@ class AnswerWidget extends StatelessWidget {
               height: 24,
               width: 24,
               child: Icon(
-                isSelected ? _selectedIconRight : Icons.check,
+                isSelected ? _selectedIconRight : Icons.radio_button_unchecked,
                 size: 16,
                 color: AppColors.white,
               ),
               decoration: BoxDecoration(
-                  color: isSelected ? _selectedColorRight : AppColors.darkGreen,
+                  color: isSelected ? _selectedColorRight : AppColors.white,
                   borderRadius: BorderRadius.circular(500),
                   border: Border.fromBorderSide(BorderSide(
                       color: isSelected
